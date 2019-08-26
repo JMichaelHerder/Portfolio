@@ -1,0 +1,3 @@
+﻿  MHW Armor Tool.cpp
+C:\Users\jherd\source\repos\MHW Armor Tool\MHW Armor Tool\ArmorSearch.h(25,82): warning C4227:  anachronism used: qualifiers on reference are ignored
+  MHW Armor Tool.vcxproj -> C:\Users\jherd\source\repos\MHW Armor Tool\Debug\MHW Armor Tool.exe
